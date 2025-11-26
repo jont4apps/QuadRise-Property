@@ -1,18 +1,32 @@
+
 # Copilot Instructions for QuadRise-Property
 
 ## Project Overview
-This repository appears to be in its initial state, with only a `README.md` present and no source code or documentation about architecture, workflows, or conventions. There are no discoverable build, test, or integration patterns yet.
+This repository is non-technical and is used to store documentation related to a business plan and its execution. No source code, build, or test workflows are present or expected.
 
-## Guidance for AI Coding Agents
-- **Project Structure:** The project currently contains only a `README.md` and a `.git` directory. No source files, configuration, or documentation about architecture or workflows are present.
-- **Assumptions:** Before making changes, confirm the intended tech stack, architectural patterns, and workflow conventions with the user.
-- **Scaffolding:** If asked to add code, clarify requirements and propose a structure (e.g., backend, frontend, language, framework) before implementation.
-- **Documentation:** Update this file as the project evolves to reflect new conventions, workflows, and architectural decisions.
+## Guidance for AI Agents
+- **Purpose:** Focus on organizing, editing, and maintaining business documentation, plans, strategies, and execution records.
+- **Content Types:** Expect Markdown, text, spreadsheets, and other business documentation formats. Do not scaffold code or technical artifacts.
+- **Structure:** Propose clear folder and file structures for business documents (e.g., `/docs`, `/plans`, `/reports`, `/meeting-notes`).
+- **Documentation Patterns:** Use concise, actionable, and well-organized Markdown. Include tables, checklists, timelines, and summaries where helpful.
+- **Collaboration:** Document conventions for versioning, review, and updates. Suggest templates for business plans, meeting notes, and progress tracking.
+- **Integration:** If external references (e.g., links to cloud docs, spreadsheets) are needed, document how and where to include them.
+
+## Example Structure
+```
+docs/
+	business-plan.md
+	execution-roadmap.md
+	meeting-notes/
+		2025-11-27.md
+reports/
+	quarterly-review-2025-Q4.md
+README.md
+```
 
 ## Next Steps
-- Request clarification from the user about the intended architecture, tech stack, and any existing conventions.
-- Once code or documentation is added, update this file to guide future AI agents.
+- When new documentation is added, update this file to reflect new conventions and folder structures.
+- If business documentation templates or workflows are established, document them here for future contributors.
 
 ---
-**Example Update Section:**
-> _"As of November 2025, this project contains only a README. No code, build, or test workflows are present. Please consult the user for project direction before proceeding."_
+_As of November 2025, this repository is for business documentation only. No technical implementation is expected. AI agents should focus on supporting documentation workflows and organization._
