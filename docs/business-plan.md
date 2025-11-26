@@ -2,7 +2,16 @@
 
 ## Vision & Mission
 
-Describe the core vision and mission of the business.
+**Vision:**  
+To build sustainable wealth and financial security for our partners through strategic property investment, development, and management.
+
+**Mission:**
+
+- Identify and execute property opportunities that maximize returns and minimize risk.
+- Leverage expert financial and legal advice to ensure all strategies are sound and compliant.
+- Utilize company structures to optimize tax outcomes and protect partner interests.
+- Foster a collaborative environment among partners, sharing knowledge and resources.
+- Continuously adapt strategies to market conditions and regulatory changes.
 
 ## Key Ideas & Strategies
 
