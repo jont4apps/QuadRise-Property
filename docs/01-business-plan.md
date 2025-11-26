@@ -1,6 +1,6 @@
 # QuadRise-Property Business Plan
 
-## Vision & Mission
+## Vision & Mission :construction:
 
 **Vision:**  
 To build sustainable wealth and financial security for our partners through strategic property investment, development, and management.
@@ -13,7 +13,7 @@ To build sustainable wealth and financial security for our partners through stra
 - Foster a collaborative environment among partners, sharing knowledge and resources.
 - Continuously adapt strategies to market conditions and regulatory changes.
 
-## Key Ideas & Strategies
+## Key Ideas & Strategies :construction:
 
 - Build wealth through property
 - Strategies to be verified by financial experts
@@ -57,13 +57,13 @@ Provide financial projections, funding requirements, and budget overview.
 
 Identify key team members and their roles.
 
-## Risks & Expert Review
+## Risks & Expert Review :construction:
 
-List any strategies, ideas, or assumptions that require validation by financial, legal, or other experts. Track status (e.g., pending, vetted).
+Property investment structures, tax and legal risks, and partnership options are covered in detail in a dedicated document:
 
-## Business Plan Framework
+[See Risks & Expert Review](./02-risks-expert-review.md)
 
-This business plan uses a hybrid framework, combining elements from Lean Canvas (problem, solution, unique value), Traditional (market analysis, financials, milestones), and SWOT (strengths, weaknesses, opportunities, threats). Sections can be expanded or adjusted as needed.
+This section provides a summary only. For full details, protection strategies, and diagrams, refer to the linked document. All structures and tax outcomes should be validated by a qualified financial/legal expert.
 
 ## External Resources
 
