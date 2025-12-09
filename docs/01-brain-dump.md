@@ -15,13 +15,39 @@ To build sustainable wealth and financial security for our partners through stra
 
 ## Key Ideas & Strategies :construction:
 
-- Build wealth through property
-- Strategies to be verified by financial experts
-- Build and sell property under a company for lower CGT tax (requires vetting)
-- Purchase properties for rent with high yield and positive gearing
-- Multiple partners in the company
-- Goal to reduce personal income tax
-- *Add more ideas and strategies as they arise*
+### Core Investment Philosophy
+- **Balanced Portfolio Approach:** Combine high-yield "cash cow" properties (to support serviceability) with high-capital-growth assets (to build long-term equity).
+- **Manufactured Equity:** Focus on properties with "value-add" potential—cosmetic renovations, structural extensions, or subdivision potential—to force appreciation independent of market cycles.
+- **Strategic Market Entry:** Target suburbs with leading indicators of growth: upcoming infrastructure projects (transport, hospitals), gentrification trends, and tight rental vacancy rates (<2%).
+
+### Acquisition & Exit Strategies
+1.  **"Buy and Hold" (Long-Term Wealth):**
+    - Acquire assets in high-demand locations.
+    - Leverage negative gearing initially (if personal income allows) transitioning to positive cash flow over time.
+    - *Structure Consideration:* Discretionary Trust (for asset protection and flexibility).
+2.  **"Develop and Sell" (Trading/Flipping):**
+    - Acquire sites for townhouse/duplex development or subdivision.
+    - Focus on speed of execution to minimize holding costs.
+    - *Structure Consideration:* Company structure (capped tax rate on trading profits, currently ~25-30%).
+3.  **"BRRRR" Strategy (Buy, Rehab, Rent, Refinance, Repeat):**
+    - Buy distressed or undervalued assets.
+    - Renovate to increase valuation and rental yield.
+    - Refinance to pull out equity for the next deposit.
+4.  **"Subdivide and Split" (Land & Build Strategy):**
+    - Identify properties with subdivision potential (e.g., corner blocks, wide frontages).
+    - **Execution:** Subdivide into two lots.
+        - *Lot 1 (Vacant Land):* Sell immediately to generate cash flow and reduce principal debt.
+        - *Lot 2 (House + Land):* Retain existing dwelling or build new to sell as a finished product.
+    - **Goal:** Reduce holding costs and risk by securing early capital return from the land sale.
+5.  **"Multi-Unit Development" (Townhouse/Unit Strategy):**
+    - Acquire larger blocks or amalgamated sites zoned for medium density (e.g., R3/R4).
+    - **Execution:** Design and construct a complex of townhouses, villas, or units.
+    - **Goal:** Maximize site yield and profit margins through economies of scale in construction.
+
+### Financial & Tax Optimization Goals
+- **Tax Efficiency:** Utilize corporate structures for active trading (development) to manage Capital Gains Tax (CGT) and income tax.
+- **Serviceability Management:** Ensure the portfolio maintains a healthy Loan-to-Value Ratio (LVR) and Debt Service Coverage Ratio (DSCR) to allow for continuous lending.
+- **Partner Leverage:** Pool capital and borrowing capacity with multiple partners to access higher-grade commercial or multi-residential assets.
 
 ## Problem & Solution
 
