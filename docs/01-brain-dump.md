@@ -1,4 +1,4 @@
-# QuadRise-Property Business Plan
+# QuadRise-Property Brain Dump
 
 ## Vision & Mission :construction:
 
@@ -70,3 +70,12 @@ This section provides a summary only. For full details, protection strategies, a
 - [Google Drive: Business Docs](https://drive.google.com/drive/folders/1lY1gXBcXpkyK4M5nUeRmaBNpUy_ofq4I?usp=drive_link)
 
 *Add more cloud links or resources as needed.*
+
+## References
+
+- ASIC: Managed Investment Schemes overview — https://asic.gov.au/regulatory-resources/managed-investment-schemes/overview-of-managed-investment-schemes
+- QLD Revenue Office (QRO): Land tax — https://www.qld.gov.au/revenue/land-tax ; Transfer duty — https://www.qld.gov.au/revenue/transfer-duty ; AFAD — https://www.qld.gov.au/revenue/transfer-duty/afad
+- ATO: Small business CGT concessions — https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/incentives-and-concessions/small-business-cgt-concessions
+- ATO: GST (property and construction) — https://www.ato.gov.au/business/gst
+- APRA: APG 223 Residential Mortgage Lending — https://www.apra.gov.au/prudential-practice-guides/apg-223-residential-mortgage-lending
+- SPV overview — https://en.wikipedia.org/wiki/Special-purpose_entity
