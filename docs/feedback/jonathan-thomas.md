@@ -4,33 +4,107 @@
 
 ## 1. Personal Goals & Time Horizon *(M-601)*
 
-- What are your personal wealth and lifestyle goals?
-- Investment time horizon (years):
-- Preferred balance: income now vs long-term growth:
+**What are your personal wealth and lifestyle goals?**
+
+- I aim to retire within 10 years, hoping to boost my superannuation through property investments.
+- If i were to scale and grow my property portfolio into positive gearing, I would like cynthia to be involved in the management side of things and consider even earlier retirement or less days at work.
+
+**Investment time horizon (years)**?
+
+- up to 10 years, with flexibility for longer-term holdings if beneficial.
+
+**Preferred balance: income now vs long-term growth?**
+
+- Any positively geared property would be used to offset a negatively geared property. I have some wiggle room for negative gearing to reduce my taxable income.
 
 ## 2. Risk Appetite *(M-401)*
 
-- How comfortable are you with leverage (LVR levels, IO vs P&I)?
-- How do you feel about personal/dir guarantees and recourse risk?
-- Any non-negotiable risk limits?
+**How comfortable are you with leverage (LVR levels, IO vs P&I)?**
+
+- Comfortable with LVR down to 60% (as partners) for residential properties, preferring P&I repayments to build equity steadily.
+- 80% LVR if solo and confident in the asset and lower price point.
+- I would entertain interest-only for short term investments. Like:
+  - Build/Sell.
+  - Off-the-plan developments.
+
+**How do you feel about personal/dir guarantees and recourse risk?**
+
+- No full resource to my personal assets via a personal guarantee.
+- Comfortable with limited guarantees tied to my investment amount.
+
+**Any non-negotiable risk limits?**
+
+- No personal guarantees (or only capped/limited ones)
+- Max LVR of 80% solo, 60% as a partner.
+- No rental projects without depreciation benefits.
+- Rental yield close to neutral or positive cash flow after expenses.
+- No cash calls beyond agreed contribution
+- No development projects without a fixed price contract with a reputable builder.
+- No off-the-plan purchases without a reputable developer with a strong track record.
+- No single-key developments (duplex and above only).
+
+- I am open to SMSF contributions if it aligns with my retirement goals.
 
 ## 3. Structure Preference *(M-101)*
 
-- Would you consider a simple partnership (unincorporated) if it means lower cost/complexity but unlimited personal liability?
-- Initial leaning: Unit Trust with corporate trustee vs `Pty Ltd` company:
+**Would you consider a simple partnership (unincorporated) if it means lower cost/complexity but unlimited personal liability?**
+
+- I need to hear from experts on the pros and cons of all structures before making a decision.
+
+**Initial leaning: Unit Trust with corporate trustee vs `Pty Ltd` company:**
+
 - Key reasons:
-- Concerns or questions about either structure (tax, duty, land tax, complexity):
+  - I can't decide without expert advice.
+  - I am not in favour of tying up capital in a company if it means double taxation to access profits when needed.
+
+**Concerns or questions about either structure (tax, duty, land tax, complexity):**
+
+- I need to understand the tax implications better, especially regarding land tax and duty.
+- I want to know how each structure affects my ability to access profits and manage tax liabilities.
 
 ## 4. Capital & Liquidity *(M-201, M-601)*
 
-- Likely capital commitment range for first SPV:
-- Appetite for future capital calls/reserves:
-- Liquidity expectations (how and when you might want to exit):
+**Likely capital commitment range for first SPV:**
+
+- $250,000 for pilot project.
+
+**Appetite for future capital calls/reserves:**
+
+- For a development project, I am not comfortable with any additional capital calls.
+- For a rental project, I am comfortable with up to 10% additional capital calls for reserves.
+
+**Liquidity expectations (how and when you might want to exit):**
+
+- Depending on the project:
+  - For rental properties, I would consider a 3-7 year hold with potential exit via sale or buyout by other partners.
+  - For development projects, I will entertain:
+    - an exit upon project completion and sale.
+    - rental up to 2 years post-completion before exit focusing on asset and components depreciation benefits.
+    - off-the-plan purchases with a 1-3 year hold before exit.
+    - Considerations of CGT implications on exit timing.
 
 ## 5. Role & Involvement *(M-301)*
 
-- Desired role (e.g., strategic, operational, finance, DD, PM liaison):
-- Expected time involvement per month:
+**Desired role (e.g., strategic, operational, finance, DD, PM liaison):**
+
+- For pilot project, i think we all need strategic oversight and periodic review of financial performance.
+  - What we need to agree on strategically is:
+    - Target markets/suburbs.
+    - Property types.
+    - Investment criteria (yields, LVR, etc).
+    - Exit strategies.
+- Finance oversight, ensuring budgets and forecasts are met. Consider a cloud accounting system for transparency.
+- Happy to delegate:
+  - DD (Review suburb/property data, feasibility, building/pest, contract checks (with pros)),
+  - PM liaison (Leasing strategy, rent reviews, maintenance approvals, tenant issues escalation.)Operational.
+  - Operational (Coordinating agents/PMs, tracking tasks, handling issues as they come up.).
+- All roles will have an explicit responsibility matrix to avoid overlap and confusion. Fulfillment of roles will be evident via regular reporting and updates.
+- To some degree, nearly all roles are suited to any one of us given our skillsets. What matters most is clear communication, commitment and supporting each other to focus on successful outcomes and that secret sauce. Finding the secret sauce allows us to scale with certainty and confidence.
+
+**Expected time involvement per month:**
+
+- Initial setup and acquisition phase: 16-30 hours/month.
+- Ongoing management phase: 10 hours/month depending on scale and complexity of the asset.
 
 ## 6. Deal Preferences
 
