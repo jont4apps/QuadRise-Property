@@ -87,17 +87,17 @@
 
 **Desired role (e.g., strategic, operational, finance, DD, PM liaison):**
 
-- For pilot project, i think we all need strategic oversight and periodic review of financial performance.
+- For pilot project, i think **we all need strategic oversight** and periodic review of financial performance.
   - What we need to agree on strategically is:
     - Target markets/suburbs.
     - Property types.
     - Investment criteria (yields, LVR, etc).
     - Exit strategies.
-- Finance oversight, ensuring budgets and forecasts are met. Consider a cloud accounting system for transparency.
+- **Finance oversight**, ensuring budgets and forecasts are met. Consider a cloud accounting system for transparency.
 - Happy to delegate:
   - DD (Review suburb/property data, feasibility, building/pest, contract checks (with pros)),
   - PM liaison (Leasing strategy, rent reviews, maintenance approvals, tenant issues escalation.)Operational.
-  - Operational (Coordinating agents/PMs, tracking tasks, handling issues as they come up.).
+- Happy to share **Operational** (Coordinating agents/PMs, tracking tasks, handling issues as they come up.).
 - All roles will have an explicit responsibility matrix to avoid overlap and confusion. Fulfillment of roles will be evident via regular reporting and updates.
 - To some degree, nearly all roles are suited to any one of us given our skillsets. What matters most is clear communication, commitment and supporting each other to focus on successful outcomes and that secret sauce. Finding the secret sauce allows us to scale with certainty and confidence.
 
@@ -108,8 +108,29 @@
 
 ## 6. Deal Preferences
 
-- Property type/location preferences (for first QLD resi SPV):
-- Red lines (asset types/locations you would not back):
+**Property type/location preferences (for first QLD resi SPV):**
+
+- Preferred locations:
+  - Toowoomba and other regional hubs, close to amenities and transport and with forecasted project growth.
+  - Areas close to Olympic infrastructure with strong rental demand.
+- Preferred property types:
+  - off-the-plan apartments in high-demand areas with reputable developers. rent for 1-3 years post-completion before exit to maximise depreciation benefits and market appreciation and reduce CGT.
+  - Duplexes and townhouses with strong rental demand and growth potential.
+  - Properties subsidised by government incentives (if available), NDIS, Military housing.
+  - Build-to-sell developments with clear exit strategies. Only after thorough guidance from financial and legal advisors. Duplexes and townhouses preferred.
+
+- Asset and components depreciation benefits are a must consideration for rental properties to reduce taxable income.
+
+**Red lines (asset types/locations you would not back):**
+
+- Complex renovation projects, requiring significant time and expertise.
+- Properties:
+  - in high-crime or declining areas.
+  - interstate purchases
+  - Commercial properties.
+  - Single-key dwellings.
+  - Properties without clear exit strategies.
+- Other opportunities not expressed in preferences.
 
 ## 7. Governance & Decision-Making *(M-301, M-701)*
 
