@@ -119,7 +119,7 @@
   - Properties subsidised by government incentives (if available), NDIS, Military housing.
   - Build-to-sell developments with clear exit strategies. Only after thorough guidance from financial and legal advisors. Duplexes and townhouses preferred.
 
-- Asset and components depreciation benefits are a must consideration for rental properties to reduce taxable income.
+- Asset and fixtures depreciation benefits are a must consideration for rental properties to reduce taxable income.
 
 **Red lines (asset types/locations you would not back):**
 
@@ -130,18 +130,34 @@
   - Commercial properties.
   - Single-key dwellings.
   - Properties without clear exit strategies.
+- Partners that don't formalise their position and fill-in documents such as this.
 - Other opportunities not expressed in preferences.
 
 ## 7. Governance & Decision-Making *(M-301, M-701)*
 
-- View on voting thresholds (ordinary/major/reserved matters):
-- Any strong views on conflict/related-party policies:
+**View on voting thresholds (ordinary/major/reserved matters)?**
+
+- I have mixed feelings on this and willing to reserve my judgement until i hear from finace experts.
+
+**Any strong views on conflict/related-party policies?**
+
+- My preference is that conflicts are identified early rather than later. Which is why filling out this document may highlight potential conflicts. 
+- The pilot project is as much about learning from the experience without going to heavy into debt.
 
 ## 8. Open Questions for Advisors
 
-- Legal/tax questions you want answered before committing:
-- Lending/finance questions:
+**Legal/tax questions you want answered before committing**
+
+- I need advice on pros & cons over each partnership structure as they relate to company tax versus personal tax.
+
+**Lending/finance questions**
+
+- Give it to me. I have many thoughts but until i hear from an expert
 
 ## 9. Other Comments
 
-- Anything else that would help align expectations with other partners:
+**Anything else that would help align expectations with other partners**
+
+- I have been in partnership twice before. Formalities and communication are important to me. Much more than focusing on opportunities.
+- I have concerns about the winning project. We will all have ideas about what the right project is, but to choose without bias will be difficult for the pilot project. 
+- I don't believe anyone is this mix are experts and therefore their opinion, is only an opinion.
