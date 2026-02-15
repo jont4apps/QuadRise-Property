@@ -65,7 +65,7 @@ Summarize market research, target audience, and competitive landscape.
 
 | Strengths | Weaknesses | Opportunities | Threats |
 |-----------|------------|--------------|--------|
-|           |            |              |        |
+| TBD | TBD | TBD | TBD |
 
 ## Strategy & Objectives
 
