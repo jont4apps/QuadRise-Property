@@ -47,15 +47,15 @@ Unlike residential mortgages, commercial lenders focus on **asset income**, not 
 
 ```calc
 Assessable Income: $340K × 80% = $272K
-Annual Interest (7.5%): $1.19M × 7.5% = ~$89K
+Annual Interest (10%): $1.19M × 10% = $119K
 
-DSCR = $272K / $89K = 3.05
+DSCR = $272K / $119K = 2.29
 
-Result: EXCEPTIONALLY STRONG (well above 1.25 minimum)
+Result: STRONG (well above 1.25 minimum)
 ```
 
 **Financial Advisor Insight:**  
-A DSCR above 3.0 provides significant safety margin for:
+A DSCR above 2.0 provides significant safety margin for:
 
 - Interest rate rises
 - Vacancy periods  
@@ -437,7 +437,7 @@ NDIS/SDA is a **long-term hold strategy**. Investors must have 5-7 year horizon.
 
 #### Strengths
 
-- ✅ **Exceptionally strong DSCR** (~3.0)
+- ✅ **Strong DSCR** (~2.3)
 - ✅ **High Physical Support category** (premium SDA band)
 - ✅ **Specialist SDA provider** (reduces operational risk)
 - ✅ **70% LVR confirmed** (best-in-class for SDA)
@@ -486,10 +486,10 @@ NDIS/SDA is a **long-term hold strategy**. Investors must have 5-7 year horizon.
 #### Scenario 1: Interest Rate Rise (+2%)
 
 ```
-New Rate: 9.5%
-Annual Interest: $1.19M × 9.5% = $113K
+New Rate: 12%
+Annual Interest: $1.19M × 12% = $142.8K
 
-DSCR = $272K / $113K = 2.4
+DSCR = $272K / $142.8K = 1.9
 
 Result: Still well above 1.25 minimum ✓
 ```
@@ -498,9 +498,9 @@ Result: Still well above 1.25 minimum ✓
 
 ```
 Reduced Income: $340K × 75% × 80% = $204K
-Interest (7.5%): $89K
+Interest (10%): $119K
 
-DSCR = $204K / $89K = 2.3
+DSCR = $204K / $119K = 1.71
 
 Result: Still acceptable ✓
 ```
@@ -509,9 +509,9 @@ Result: Still acceptable ✓
 
 ```
 Income: $204K
-Interest (9.5%): $113K
+Interest (12%): $142.8K
 
-DSCR = $204K / $113K = 1.8
+DSCR = $204K / $142.8K = 1.43
 
 Result: Above 1.25, but tighter—maintain reserves ⚠️
 ```
@@ -610,7 +610,7 @@ Result: Above 1.25, but tighter—maintain reserves ⚠️
 
 ✅ **This is a strong deal:**
 
-- DSCR of ~3.0 is exceptional (most lenders want ≥1.25)
+- DSCR of ~2.3 is strong (most lenders want ≥1.25)
 - 70% LVR is best-in-class for SDA
 - High Physical Support = premium, stable income
 
@@ -672,11 +672,76 @@ Result: Above 1.25, but tighter—maintain reserves ⚠️
 
 ## Part 7: Next Steps
 
-### Immediate Actions (Week 1-2)
+### Current Status (March 2026)
+
+✅ **In Progress:**
+
+- **NDIS Specialist Engagement:** Currently engaging with NDIS property development specialist
+- **Market Research:** Gathering intelligence on HPS SDA opportunities and market dynamics
+- **Strategy Validation:** Reviewing feasibility and risk mitigation approaches
+
+### Questions for NDIS Specialist
+
+**Strategic & Market Questions:**
+
+1. What are the current HPS SDA vacancy rates in target markets (SEQ/regional QLD)?
+2. Which locations have the highest demand vs supply gap for HPS category?
+3. What is the typical timeline from construction completion to tenant placement?
+
+**Provider & Operational Questions:**
+
+1. Which SDA providers are most reputable and financially stable in QLD?
+2. What are typical head lease terms (duration, break clauses, rent review mechanisms)?
+3. Do providers prefer head leases vs property management models? What are the trade-offs?
+4. What property management fees are standard for SDA (as % of gross rent)?
+5. What are the most common operational issues that cause provider-landlord disputes?
+
+**Design & Compliance Questions:**
+
+1. What are the most critical design features lenders and providers prioritize for HPS?
+2. Are there oversupplied design types we should avoid (e.g., too many 4-bedroom villas)?
+3. What is the certification process timeline and cost for HPS SDA properties?
+4. What are common compliance failures that delay certification?
+
+**Financial & Funding Questions:**
+
+1. Which lenders are currently most active and competitive for HPS SDA construction finance?
+2. What LVR and interest rates are realistic in current market (March 2026)?
+3. Are lenders still offering 70% LVR for HPS, or has this tightened?
+4. What DSCR thresholds are lenders requiring for SDA projects now?
+5. Are there any government grants or incentives still available for SDA development?
+
+**Risk & Exit Questions:**
+
+1. What is the average hold period before investors typically exit SDA projects?
+2. How liquid is the market for stabilized HPS SDA properties (ease of sale)?
+3. What buyer profile typically acquires SDA assets (institutional, private, SMSF)?
+4. Have you seen any SDA projects fail or require distressed sales? What were the causes?
+5. What is your view on interest rate risk and impact on SDA valuations?
+
+**Partnership & Structure Questions:**
+
+1. Do you have trusted partners you recommend for: builders, solicitors, accountants, QS?
+2. What equity partnership structures have you seen work best for SDA developments?
+3. Are there any regulatory "gotchas" we should be aware of when structuring the SPV?
+4. Do you offer ongoing advisory/support during construction and stabilization phases?
+5. Are you aware of any existing SDA projects seeking co-investors or JV partners?
+
+**Additional Notes/Follow-Up:**
+
+- [ ] Request case studies of similar HPS projects (anonymized financials, timelines, outcomes)
+- [ ] Ask for introduction to preferred SDA provider for initial discussions
+- [ ] Obtain referrals for construction finance brokers specializing in SDA
+- [ ] Clarify ongoing advisory fees and scope of services
+
+---
+
+### Immediate Actions (Post-NDIS Specialist Meeting)
 
 1. **Legal Advisor:** Engage corporate lawyer with securities/fundraising experience
 2. **Financial Advisor:** Engage accountant for SPV tax structure advice
-3. **Property Strategist:** Obtain independent SDA demand report for the location
+3. **Property Analysis:** Validate target location based on specialist's demand insights
+4. **Provider Outreach:** Initiate discussions with recommended SDA providers
 
 ### Short-Term (Month 1-3)
 
@@ -684,12 +749,14 @@ Result: Above 1.25, but tighter—maintain reserves ⚠️
 2. **Draft and circulate Information Memorandum** to potential investors
 3. **Negotiate Heads of Agreement** with SDA provider (head lease)
 4. **Secure fixed-price building contract** with reputable builder
+5. **Approach construction finance lenders** (via specialist broker if recommended)
 
 ### Medium-Term (Month 3-6)
 
 1. **Close equity raise** (subscription agreements signed, capital called)
 2. **Execute construction finance** (drawdown facility, guarantees in place)
 3. **Commence construction** (QS reports, progress monitoring)
+4. **Maintain regular communication** with SDA provider and NDIS specialist
 
 ---
 
@@ -717,17 +784,17 @@ gantt
     title NDIS SDA Development Timeline
     dateFormat YYYY-MM
     section Planning
-    Legal Structure & Docs        :2026-02, 2M
-    Equity Raise                   :2026-03, 2M
+    Legal Structure & Docs        :a1, 2026-03, 2M
+    Equity Raise                   :a2, after a1, 2M
     section Construction
-    Construction Finance Close     :2026-05, 1M
-    Build Phase                    :2026-06, 12M
+    Construction Finance Close     :a3, after a2, 1M
+    Build Phase                    :a4, after a3, 12M
     section Stabilisation
-    Lease Activation              :2026-06, 3M
-    Income Proof Period           :2026-09, 12M
+    Lease Activation              :a5, after a4, 3M
+    Income Proof Period           :a6, after a5, 12M
     section Exit
-    Refinance to Term Debt        :2027-09, 2M
-    Investor Equity Return        :2027-11, 1M
+    Refinance to Term Debt        :a7, after a6, 2M
+    Investor Equity Return        :a8, after a7, 1M
 ```
 
 ---
@@ -790,7 +857,3 @@ All parties must conduct their own due diligence and seek qualified professional
 - **Author:** QuadRise-Property Strategic Planning
 - **Review Date:** March 2026
 - **Next Update:** Post-legal and financial advisor review
-
----
-
-*End of Document*
