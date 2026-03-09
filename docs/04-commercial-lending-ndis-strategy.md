@@ -1,10 +1,15 @@
 # Commercial Lending & NDIS Property Development Strategy
 
-**Document Purpose:** Guide for QuadRise-Property team on commercial lending fundamentals and NDIS/SDA property investment strategy.
+> **⚠️ STATUS: REFERENCE ONLY**  
+> This document assumed a developer/manager role leading a multi-investor syndicate.  
+> **The actual opportunity is a 3-way equity partnership.**  
+> **See:** [05-three-way-partnership-analysis.md](05-three-way-partnership-analysis.md)
+
+**Document Purpose:** Guide for QuadRise-Property team on commercial lending fundamentals and NDIS/SDA property investment strategy (developer/manager perspective).
 
 **Date:** February 16, 2026  
-**Status:** Strategic Planning Document  
-**Target Audience:** Partners, Investors, Development Team
+**Status:** Reference Document (Original Strategy)  
+**Target Audience:** Partners, Investors, Development Team (if pursuing developer role)
 
 ---
 
